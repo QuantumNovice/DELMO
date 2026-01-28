@@ -5,7 +5,8 @@
 
 # DELMO
 
-### A Deep-Learning Based Detection of BIM Modeling Errors for Accurate Quantity Takeoff
+### 
 
 
+Information regarding training, dataset and trained models will be shared on this repository regarding the DELMO paper. 
 

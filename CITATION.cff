@@ -26,7 +26,7 @@ identifiers:
     value: 10.17632/gym25k77n6.1
     description: "Mendeley Data, version 1"
 # CHECK: replace with the actual repository URL
-repository-code: "https://github.com/QuantumNovice/REPO-NAME"
+repository-code: "https://github.com/QuantumNovice/DELMO"
 # CHECK: must match the license on the Zenodo and Mendeley records
 license: CC-BY-4.0
 date-released: 2026-10-16
